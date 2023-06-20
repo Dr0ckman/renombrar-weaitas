@@ -1,6 +1,5 @@
 import os
 
-filenames = []
 counter = 1
 
 for filename in os.listdir(os.getcwd()):
